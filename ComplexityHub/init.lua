@@ -7,7 +7,7 @@ local HttpService = game:GetService("HttpService")
 local PlaceId = game.PlaceId
 
 -- Replace 'YourGitHubUsername' with your actual GitHub username once uploaded
-local baseUrl = "https://raw.githubusercontent.com/YourGitHubUsername/Complexity-Hub/main/Games/"
+local baseUrl = "https://raw.githubusercontent.com/ttqoolys/Complexity/main/Games/"
 
 local GameScripts = {
     [286090429]  = "Arsenal.lua",   -- Arsenal
